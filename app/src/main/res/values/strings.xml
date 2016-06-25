@@ -1,3 +1,28 @@
 <resources>
-    <string name="app_name">DevIntensive</string>
+    <string name="app_name">Соколов Константин</string>
+    <string name="hello_devintensive">Hello DevIntensive!</string>
+    <string name="rating_value">5</string>
+    <string name="rating_label">Рейтинг</string>
+    <string name="row_value">5</string>
+    <string name="row_label">Написано строк кода</string>
+    <string name="project_value">5</string>
+    <string name="project_label">Проектов</string>
+    <string name="call_back_label">Call back</string>
+    <string name="et1_hint">Мобильный</string>
+    <string name="et1_text">+7 (999) 888 – 77 - 77</string>
+    <string name="phone_talk_label">Phone talk</string>
+    <string name="mail_label">Mail</string>
+    <string name="et2_hint">E-mail</string>
+    <string name="et2_text">sokolov@mail.ru</string>
+    <string name="send_label">Send</string>
+    <string name="account_label">Account</string>
+    <string name="et3_hint">Профиль в VK</string>
+    <string name="et3_text">vk.com/id8246401</string>
+    <string name="visible_label">Visible</string>
+    <string name="attach_label">Attach</string>
+    <string name="et4_hint">Репозиторий</string>
+    <string name="et4_text">github.com/rsymbol/DevIntensive</string>
+    <string name="record_label">Record</string>
+    <string name="et5_hint">О себе</string>
+    <string name="et5_text">Информация о себе...</string>
 </resources>

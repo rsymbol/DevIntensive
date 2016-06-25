@@ -3,10 +3,43 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
 
-    <!--size-->
-    <dimen name="size_small_24">24dp</dimen>
-    <dimen name="size_medium_56">56dp</dimen>
-    <dimen name="size_large_72">72dp</dimen>
+    <!--size_dp-->
+    <dimen name="size_1dp">1dp</dimen>
+    <dimen name="size_8dp">8dp</dimen>
+    <dimen name="size_16dp">16dp</dimen>
+    <dimen name="size_24dp">24dp</dimen>
+    <dimen name="size_32dp">32dp</dimen>
+    <dimen name="size_40dp">40dp</dimen>
+    <dimen name="size_48dp">48dp</dimen>
+    <dimen name="size_56dp">56dp</dimen>
+    <dimen name="size_64dp">64dp</dimen>
+    <dimen name="size_72dp">72dp</dimen>
+    <dimen name="size_80dp">80dp</dimen>
+    <dimen name="size_88dp">88dp</dimen>
+    <dimen name="size_96dp">96dp</dimen>
+    <dimen name="size_104dp">104dp</dimen>
+    <dimen name="size_112dp">112dp</dimen>
+    <dimen name="size_120dp">120dp</dimen>
+    <dimen name="size_128dp">128dp</dimen>
+
+    <!--size_sp-->
+    <dimen name="size_1sp">1sp</dimen>
+    <dimen name="size_8sp">8sp</dimen>
+    <dimen name="size_16sp">16sp</dimen>
+    <dimen name="size_24sp">24sp</dimen>
+    <dimen name="size_32sp">32sp</dimen>
+    <dimen name="size_40sp">40sp</dimen>
+    <dimen name="size_48sp">48sp</dimen>
+    <dimen name="size_56sp">56sp</dimen>
+    <dimen name="size_64sp">64sp</dimen>
+    <dimen name="size_72sp">72sp</dimen>
+    <dimen name="size_80sp">80sp</dimen>
+    <dimen name="size_88sp">88sp</dimen>
+    <dimen name="size_96sp">96sp</dimen>
+    <dimen name="size_104sp">104sp</dimen>
+    <dimen name="size_112sp">112sp</dimen>
+    <dimen name="size_120sp">120sp</dimen>
+    <dimen name="size_128sp">128sp</dimen>
 
     <!--Spaces-->
     <dimen name="spacing_small_8">8dp</dimen>
